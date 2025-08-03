@@ -11,7 +11,7 @@ A C# .NET 7 library for working with alphabetical sequences like "AAA", "AAB", "
 - ✅ Number to alphabet conversion and vice versa
 - ✅ Input validation and error handling
 - ✅ Zero dependencies
-- ✅ .NET 7 compatible
+- ✅ .NET 8 compatible
 
 ## Installation
 
