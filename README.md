@@ -1,6 +1,6 @@
 # AlphabetSequence Library
 
-A C# .NET 7 library for working with alphabetical sequences like "AAA", "AAB", "AAC", etc. Perfect for scenarios where you need Excel-like column naming, sequence generation, or alphabetical progression instead of numeric counters.
+A C# .NET 8 library for working with alphabetical sequences like "AAA", "AAB", "AAC", etc. Perfect for scenarios where you need Excel-like column naming, sequence generation, or alphabetical progression instead of numeric counters.
 
 ## Features
 
