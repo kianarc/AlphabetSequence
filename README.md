@@ -20,7 +20,7 @@ Simply copy the `AlphabetSequence.cs` file into your project.
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/alphabet-sequence.git
+git clone https://github.com/kianarc/AlphabetSequence.git
 ```
 
 ## Quick Start
@@ -241,7 +241,7 @@ Sequences are compared lexicographically, meaning:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Changelog
 
